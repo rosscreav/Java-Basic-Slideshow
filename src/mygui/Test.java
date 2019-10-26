@@ -29,7 +29,6 @@ public class Test {
     static JLabel pic2;
     static JLabel pic3;
 
-	
 	public static void main(String args[]) {
 		loadimages();
 		create();
