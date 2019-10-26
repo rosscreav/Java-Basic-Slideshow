@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.border.EmptyBorder; 
 
-public class Test {
+public class Slideshow {
 	//Frame and all its panels
 	private static JFrame f; 
 	private static JPanel container;
